@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2017-09-27
-categories: jekyll update
+categories: test demo
 ---
 This post was actually published on Wednesday 27th at about 11.13am.
 
