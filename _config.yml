@@ -16,13 +16,14 @@
 title: Multimedia Portfolio Example
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is an example portfolio for IN614 Multimedia Development, built using Jekyll.
+  Blog formats are a great way to build a portfolio, and this
+  is an easy way to do it without needing expensive and complicated
+  hosting. This site uses the default theme that comes with Jekyll called minima.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+course_code: IN614
+github_username:  eallenOP
 
 # Build settings
 markdown: kramdown
