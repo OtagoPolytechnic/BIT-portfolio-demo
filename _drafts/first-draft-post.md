@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Hello World"
+title:  Hello World
 date:   2017-09-27
-categories: test demo
+tags: test demo git workflow
+categories: technical
 ---
 This post was actually published on Wednesday 27th at about 11.13am.
 
