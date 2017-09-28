@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Projects
-nav: true
+title: Demo tag
 ---
-# Project blog posts
+# "Demo" blog posts
 
-This should be a list of project posts:
+This should be a list of posts tagged "demo":
 <ul class="post-list">
-    {% for post in site.categories.project %}
+    {% for post in site.tags.demo %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
