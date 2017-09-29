@@ -6,7 +6,7 @@
 layout: home
 nav: true
 ---
-# Tag Cloud
+**Tags**
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
@@ -16,5 +16,5 @@ nav: true
     </a>
 </span>
 {%- endfor -%}
-<br>
-## Posts by date
+<br><br>
+**Posts by date**

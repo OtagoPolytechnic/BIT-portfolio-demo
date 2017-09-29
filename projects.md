@@ -3,7 +3,8 @@ layout: page
 title: Projects
 nav: true
 ---
-# Project blog posts
+
+{{ site.course_code }} Multimedia Development is assessed using four projects that make up one part of the final portfolio. This page links to a blog post for each project, showing the final output, some evidence of workflow and tool use and a short discussion about the design decisions made.
 
 This should be a list of project posts:
 <ul class="post-list">
