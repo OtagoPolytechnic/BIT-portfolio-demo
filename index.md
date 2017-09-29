@@ -11,7 +11,7 @@ nav: true
 {% for tag in tags %}
  <span class="site-tag">
     <a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}.html"
-        style="font-size: {{ tag | last | size  |  times: 20 | plus: 60  }}%">
+        style="font-size: {{ tag | last | size  |  times: 20 | plus: 70  }}%">
             {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
     </a>
 </span>
