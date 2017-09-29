@@ -27,3 +27,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Got this from Jekyll::Compose github
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+# Github Pages functionality
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
