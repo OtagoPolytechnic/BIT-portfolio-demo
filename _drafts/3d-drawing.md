@@ -1,0 +1,23 @@
+---
+layout: post
+title: 3D Drawing
+categories: project
+---
+After some practice with SketchUp I was able to produce this 3D model of my ideal IT classroom. 
+
+## Model
+The image goes here
+
+## Research
+Here I would briefly summarise how I used research to inform my classroom design. This might include academic articles about ideal learning environments, technical specs for various assets etc. [Links](http://www.example.com) are a good idea in this section, but full reference information should still be contained at the bottom of the post.
+
+## Design decisions
+In this section, I would talk about why I did things the way I did.
+
+## Technical considerations
+I used SketchUp because, after looking at Blender, I felt it would be a shallower learning curve to use the simpler software while learning the concepts of 3D drawing. SketchUp also makes it very easy to produce animated walkthroughs which makes it perfect for interior design.
+
+I found all the computer models in the online model library, as well as most of the furniture. The only furniture I built myself was the desks because they needed to be fitted to the room dimensions.
+
+### References
+Here is where I would meet my obligations of attribution according to the licenses of all items I used. I would also ensure that, regardless of license and copyright, I was doing all I can to avoid plagiarism (and making it clear to a marker that I had done so). 
