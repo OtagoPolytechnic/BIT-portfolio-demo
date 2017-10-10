@@ -3,7 +3,7 @@ layout: post
 title: 3D Drawing
 categories: project
 ---
-After some practice with SketchUp I was able to produce this 3D model of my ideal IT classroom. 
+After some practice with SketchUp I was able to produce this 3D model of my ideal IT classroom. I would write a bit more here as a kind of summary of this post, but no more than a few sentences.
 
 ## Model
 The image goes here
