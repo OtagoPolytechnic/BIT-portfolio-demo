@@ -2,6 +2,7 @@
 layout: post
 title: UI Kit
 categories: project
+tags: research design technical
 ---
 For this project, we were briefed to make a UI kit for a travel app. I did a lot of browsing around various UI kit resources online, and found that there are many different approaches to how to present a kit. The example provided in the brief looks like a UI elements kit rather than a set of fully-designed screens, so I will base my kit on several examples I found of UI element sets.
 
@@ -30,6 +31,13 @@ I started by building all the basic shapes I would need: small and large circles
 I also noted that all apps have a back arrow and most have a "burger" menu icon as well as other navigation-specific elements. I would also need form elements for when users are leaving feedback about an attraction, including an interface for picking a star rating.
 
 I added text and then colour last, keeping to a limited pallette based on my chosen green with small amounts of a highlight colour.
+
+## Challenges
+I had some difficulty figuring out the relative sizes of all the elements. Initially I had all my radio buttons and check boxes too big and other things too small. I had to do some research about the actual pixel sizes of real phone buttons and icons and then work from there.
+
+It was also quite difficult to decide how to arrange elements on the page. I used ruler guides to divide the page into sections, but even then it was hard to know what would go where. In the end I decided to worry about that later, and just designed everything first. This helped to indicate a kind of natural order to things.
+
+Another challenge was deciding how much to make. Some UI kits online have literally every single possible element in every possible state and colour, which seems like far too much. I decided to go with a limited set of just the elements that would be central to a travel app, and then provide main colour, secondary colour, disabled and activated versions of each thing.
 
 ## References
 I based some of my icons on kits from [Freebiesbug](https://freebiesbug.com/illustrator-freebies/) but did not use any directly as my icon set was different from any on that site, and I had decided to have mine in circles. I also got inspiration from [Icons8](https://icons8.com), but again built all the images myself.
