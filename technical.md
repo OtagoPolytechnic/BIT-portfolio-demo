@@ -6,7 +6,7 @@ nav: true
 
 This page is for showing evidence of technical proficiency in my work. Like the [Projects](projects.html) page, it's a landing page for a collection of posts.
 
-This should be a list of professional posts:
+This should be a list of technical posts:
 <ul class="post-list">
     {% for post in site.categories.technical %}
       <li>
