@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog formats are a great way to build a portfolio, and this
   is an easy way to do it without needing expensive and complicated
   hosting. This site uses the default theme that comes with Jekyll called minima.
-baseurl: "/multimedia-demo" # the subpath of your site, e.g. /blog
+baseurl: "/BIT-portfolio-demo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 course_code: IN614
 github_username:  eallenOP
@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-root: /multimedia-demo
+root: /BIT-portfolio-demo
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
