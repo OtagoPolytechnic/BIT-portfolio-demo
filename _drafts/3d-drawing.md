@@ -21,3 +21,5 @@ I found all the computer models in the online model library, as well as most of 
 
 ### References
 Here is where I would meet my obligations of attribution according to the licenses of all items I used. I would also ensure that, regardless of license and copyright, I was doing all I can to avoid plagiarism (and making it clear to a marker that I had done so). 
+
+*See the [UI Kit post]({{ site.baseurl }}/project/2017/10/12/ui-kit.html) for a more detailed example.*
