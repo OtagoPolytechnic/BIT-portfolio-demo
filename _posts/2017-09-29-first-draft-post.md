@@ -2,8 +2,8 @@
 layout: post
 title:  Hello World
 date:   2017-09-27 10:50:00 +1300
-tags: test demo git workflow jekyll technical
-categories: professional
+tags: test demo git workflow jekyll 
+categories: professional technical
 ---
 This post was actually published on Wednesday 27th at about 11.13am.
 

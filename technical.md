@@ -1,11 +1,14 @@
 ---
 layout: page
-title: technical tag
+title: Technical
+nav: true
 ---
 
-This should be a list of posts tagged "technical":
+This page is for showing evidence of technical proficiency in my work. Like the [Projects](projects.html) page, it's a landing page for a collection of posts.
+
+This should be a list of technical posts:
 <ul class="post-list">
-    {% for post in site.tags.technical %}
+    {% for post in site.categories.technical %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
