@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Copyright tag
+title: copyright tag
 ---
-# "Copyright" blog posts
 
 This should be a list of posts tagged "copyright":
 <ul class="post-list">

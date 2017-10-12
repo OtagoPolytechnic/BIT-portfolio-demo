@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Jekyll tag
+title: jekyll tag
 ---
-# "Jekyll" blog posts
 
 This should be a list of posts tagged "jekyll":
 <ul class="post-list">
