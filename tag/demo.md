@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Demo tag
+title: demo tag
 ---
-# "Demo" blog posts
 
 This should be a list of posts tagged "demo":
 <ul class="post-list">

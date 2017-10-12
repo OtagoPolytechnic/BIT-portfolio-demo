@@ -1,11 +1,11 @@
 ---
 layout: page
-title: jekyll tag
+title: copyright tag
 ---
 
-This should be a list of posts tagged "jekyll":
+This should be a list of posts tagged "copyright":
 <ul class="post-list">
-    {% for post in site.tags.jekyll %}
+    {% for post in site.tags.copyright %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
