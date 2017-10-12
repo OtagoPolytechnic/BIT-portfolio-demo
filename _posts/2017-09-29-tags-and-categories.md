@@ -2,7 +2,7 @@
 layout: post
 title: Tags and categories
 categories: technical
-tags: jekyll demo test
+tags: jekyll demo test technical
 date: 2017-09-29
 ---
 Today I'm finding out about how to deal with post tags and categories. These are defined in front matter and I want to use these to organise posts in my portfolio. I'll use categories to populate the main navigational pages that relate to the marking schedule, such as projects, technical proficiency and professional proficiency (ok, the latter is actually an element of the software engineering marking schedule, but why not kill two birds with one stone?).
